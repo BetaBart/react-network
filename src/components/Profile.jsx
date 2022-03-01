@@ -11,7 +11,8 @@ function Profile() {
         <img src="https://cute-as-hell.pl/environment/cache/images/500_500_productGfx_3689/totoro.jpg" alt="ava" />
         <div className={s.headerDescr}>
           <h2>I am Tottoro</h2>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam pariatur perferendis ipsa cupiditate adipisci, neque dolor id repudiandae eos sequi eligendi. Ipsam dolores necessitatibus blanditiis, deserunt consectetur dolorum labore maxime.</p>
+          <p>And I am not a fantasy creature!</p>
+          <p>No war!</p>
         </div>
       </div>
       <div className={s.wall}>
